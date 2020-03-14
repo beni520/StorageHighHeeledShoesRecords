@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的高跟鞋分类存放记录
 
-You can use the [editor on GitHub](https://github.com/beni520/StorageHighHeeledShoesRecords/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+日常生活中我们穿的高跟鞋经常会有不同类型和功能，需要我们分类存放，方便我们日常使用和鞋子的保护。例如冬装的高跟鞋、夏装的高跟鞋我们的使用频率和季节都不一样，包括清洗方式等。我们可以将这些高跟鞋分类好，可以记录我们家里的高跟鞋的使用情况，清洗次数,距离最近清洗的时间，鞋子的用途和存放位置等。这样我们就能清楚我们家里的高跟鞋的具体情况，是否需要清洗等，方便我们生活中使用。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/StorageHighHeeledShoesRecords/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
